@@ -1,0 +1,17 @@
+{
+  "name": "metameric",
+  "description": "Funny chainable-isation utility",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yuchi/metameric.js.git"
+  },
+  "author": "Pier Paolo Ramon <ramonpierre@gmail.com>",
+  "main": "index.js",
+  "directories": {
+    "lib": "."
+  },
+  "engines": {
+    "node": "*"
+  }
+}
