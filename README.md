@@ -16,6 +16,6 @@ With `._` you wrap `.v` for further access.
 Funny, isn't id?
 
 ```javascript
-MM(document)('getElementById','my-awesome-div')._('html','Hallo');
+MM(document)('getElementById','my-awesome-div')._('innerHTML','Hallo');
 ```
 
